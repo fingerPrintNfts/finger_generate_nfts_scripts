@@ -1,0 +1,1 @@
+finger_generate_nfts_scripts
